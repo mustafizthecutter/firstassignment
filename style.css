@@ -1,0 +1,155 @@
+            /* this is the First section */
+
+.border-image{
+    padding-left: 15px;
+    border-left: 5px solid rgb(189, 70, 40);
+}
+#headerid,#spanid{
+    font-family:  sans-serif;
+    font-weight: 900;
+}
+#spanid{
+    color: rgb(255, 102, 0);
+}
+.flexible-container{
+    display: flex;
+    margin-left: 5%;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    font-size: 130%;
+}
+.half-width img{
+    width: 60%;
+    height: 80%;
+    padding-left: 5%;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+    padding: 5px 15px;
+    background-color: rgb(201, 58, 58);
+}
+
+                /* this is the second section */
+
+.mission2022{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Secular One', sans-serif;
+}
+span{
+    color: rgb(255, 102, 0);
+}
+.flexible-container-1{
+    display: flex;
+    margin-bottom: 50px;
+}
+.box-1{
+    background-color: coral;
+    margin: 40px;
+}
+.box-2{
+    background-color: rgb(174, 200, 212);
+    margin: 40px;
+}
+.box-3{
+    background-color: rgb(223, 149, 210);
+    margin: 40px;
+}
+.box{
+    width: 33.33%;
+    border-radius: 20px;
+    padding: 30px;
+}
+.box img{
+    width: 30%;
+}
+
+                    /* this is the third section */
+
+.third-section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.third-section-1{
+    width: 60%;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-left: 5%;
+    font-size: 25px;
+}
+.third-section-1 img{
+    height:400px;
+    width: 400px;
+    padding-left: 150px;
+}
+#third-header{
+    font-family: 'Secular One', sans-serif;
+}
+.link-button-1{
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+    padding: 9px 15px;
+    font-size: 700;
+    background-color: rgb(201, 58, 58);
+}
+
+
+                /* this is fourth section */
+
+.fourth-section{
+    display: flex;
+    margin-bottom: 20px;
+}
+.fourth-section-1{
+    width: 60%;
+    padding: 100px;
+    margin-left: 5%;
+    font-size: 25px;
+}
+.fourth-section-1 img{
+    height:400px;
+    width: 400px;
+    padding-left: 150px;
+}
+#fourth-header{
+    font-family: 'Secular One', sans-serif;
+}
+
+             /* this is the optional part */
+
+.optional-part{
+    display: flex;
+    margin-bottom: 20px;
+}
+.optional-part-1{
+    width: 60%;
+    padding: 100px;
+    margin-left: 5%;
+    font-size: 25px;
+}
+.optional-part-1 img{
+    height:400px;
+    width: 550px;
+    padding-left: 150px;
+}
+
+
+                /* this is the footer part */
+
+.footer-part{
+    background-color: rgb(32, 29, 29);
+    color: white;
+    text-align:center;
+    padding: 50px;
+}
+#footer-id{
+    font-family: 'Dancing Script', cursive;
+}
+.footer h1 span{
+    color:chartreuse;
+}
